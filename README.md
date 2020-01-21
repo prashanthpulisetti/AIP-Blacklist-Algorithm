@@ -1,4 +1,4 @@
-# Principles
+# The Idea
 
 The AIP algorithm aims to generate a list of the most dangerous IPs from the attacks to our IoT devices. We assume that the most dangerous  IPs, from a statistics point of view, should have a couple of recognizable features:
 
